@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "variableName&Sequence_17",
+        "variableName&Sequence_13",
+        "pdf2&Sequence_1",
+        "pdf1&Sequence_1",
+        "flag&Sequence_1",
+        "stringList2&Sequence_1",
+        "stringList&Sequence_1",
+        "folderPath&Sequence_1",
+        "fileName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
